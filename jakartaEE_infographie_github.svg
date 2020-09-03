@@ -1472,9 +1472,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-2028.9508"
-     inkscape:cx="1546.4667"
-     inkscape:zoom="0.125"
+     inkscape:cy="3253.63"
+     inkscape:cx="-1350.4813"
+     inkscape:zoom="0.1767767"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -6329,10 +6329,10 @@
     <rect
        y="-850.77747"
        x="-358.28976"
-       height="1856.2882"
+       height="1855.777"
        width="215"
        id="rect33482"
-       style="fill:#004799;fill-opacity:0.382545;stroke:none;stroke-width:0.676931;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:#004799;fill-opacity:0.382545;stroke:none;stroke-width:0.676838;stroke-linecap:round;stroke-linejoin:round" />
     <text
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect47864);"
        id="text47862"
@@ -6391,7 +6391,7 @@
          sodipodi:nodetypes="ccccc"
          id="rect21608"
          style="fill:url(#linearGradient42059);fill-opacity:1;stroke:none;stroke-width:3.4946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 0,735.64638 H 214.99997 V 1005.3314 L 0.065768,1005.9831 Z"
+         d="M 0,735.64638 H 214.99997 V 1005 H 0 Z"
          inkscape:export-xdpi="247"
          inkscape:export-ydpi="247" />
       <path
